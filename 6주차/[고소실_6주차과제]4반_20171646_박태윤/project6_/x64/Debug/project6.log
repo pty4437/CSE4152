@@ -1,0 +1,13 @@
+﻿  main.cpp
+  practice3_1.cpp
+  practice3_2.cpp
+  practice3_3.cpp
+  practice3_4.cpp
+  practice3_5.cpp
+  practice3_6.cpp
+  practice3_7.cpp
+  practice3_8.cpp
+  program3_1.cpp
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\program3_1.cpp(63,18): warning C4477: 'fscanf' : 서식 문자열 '%lf'에 'double *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+  코드를 생성하고 있습니다...
+gespp.obj : fatal error LNK1112: 'x86' 모듈 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.

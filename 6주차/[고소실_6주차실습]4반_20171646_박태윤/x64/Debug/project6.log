@@ -1,0 +1,36 @@
+﻿  main.cpp
+  practice3_1.cpp
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_1.cpp(7,16): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  practice3_2.cpp
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_2.cpp(13,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_2.cpp(12,11): warning C4101: 'fail' :참조되지 않은 지역 변수입니다.
+  practice3_3.cpp
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_3.cpp(45,24): warning C4101: 'fjac' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_3.cpp(48,6): warning C4101: 'info' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_3.cpp(45,9): warning C4101: 'fvec' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_3.cpp(49,9): warning C4101: 'wa' :참조되지 않은 지역 변수입니다.
+  practice3_4.cpp
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_4.cpp(45,24): warning C4101: 'fjac' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_4.cpp(48,6): warning C4101: 'info' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_4.cpp(45,9): warning C4101: 'fvec' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_4.cpp(49,9): warning C4101: 'wa' :참조되지 않은 지역 변수입니다.
+  practice3_5.cpp
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_5.cpp(30,6): warning C4101: 'info' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_5.cpp(28,9): warning C4101: 'fvec' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_5.cpp(31,9): warning C4101: 'wa' :참조되지 않은 지역 변수입니다.
+  practice3_6.cpp
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_6.cpp(45,24): warning C4101: 'fjac' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_6.cpp(48,6): warning C4101: 'info' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_6.cpp(45,9): warning C4101: 'fvec' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_6.cpp(49,9): warning C4101: 'wa' :참조되지 않은 지역 변수입니다.
+  practice3_7.cpp
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_7.cpp(30,6): warning C4101: 'info' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_7.cpp(28,9): warning C4101: 'fvec' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_7.cpp(31,9): warning C4101: 'wa' :참조되지 않은 지역 변수입니다.
+  practice3_8.cpp
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_8.cpp(45,24): warning C4101: 'fjac' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_8.cpp(48,6): warning C4101: 'info' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_8.cpp(45,9): warning C4101: 'fvec' :참조되지 않은 지역 변수입니다.
+C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\6주차\project6_\practice3_8.cpp(49,9): warning C4101: 'wa' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+gespp.obj : fatal error LNK1112: 'x86' 모듈 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
