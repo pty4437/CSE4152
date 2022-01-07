@@ -1,0 +1,24 @@
+﻿  Compiling CUDA source file gososil_11.cu...
+  
+  C:\Users\SOGANG\Desktop\윤태박\gososil_11__\gososil_11>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\lib" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\include"  -G   --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc142.pdb /FS /Zi /RTC1 /MDd " -o x64\Debug\gososil_11.cu.obj "C:\Users\SOGANG\Desktop\윤태박\gososil_11__\gososil_11\gososil_11.cu" 
+C:\Users\SOGANG\Desktop\윤태박\gososil_11__\gososil_11\gososil_11.cu(173): warning #546-D: transfer of control bypasses initialization of:
+              variable "dimBlock"
+  (198): here
+              variable "dimGrid"
+  (199): here
+  
+C:\Users\SOGANG\Desktop\윤태박\gososil_11__\gososil_11\gososil_11.cu(173): warning #546-D: transfer of control bypasses initialization of:
+              variable "dimBlock"
+  (198): here
+              variable "dimGrid"
+  (199): here
+  
+  gososil_11.cu
+C:\Users\SOGANG\Desktop\윤태박\gososil_11__\gososil_11\gososil_11.cu(214): warning C4533: 'dimGrid' 초기화가 'goto Error'에 의해 생략되었습니다.
+  C:\Users\SOGANG\Desktop\윤태박\gososil_11__\gososil_11\gososil_11.cu(199): note: 'dimGrid' 선언을 참조하십시오.
+  C:\Users\SOGANG\Desktop\윤태박\gososil_11__\gososil_11\gososil_11.cu(214): note: 'Error' 선언을 참조하십시오.
+C:\Users\SOGANG\Desktop\윤태박\gososil_11__\gososil_11\gososil_11.cu(214): warning C4533: 'dimBlock' 초기화가 'goto Error'에 의해 생략되었습니다.
+  C:\Users\SOGANG\Desktop\윤태박\gososil_11__\gososil_11\gososil_11.cu(198): note: 'dimBlock' 선언을 참조하십시오.
+  C:\Users\SOGANG\Desktop\윤태박\gososil_11__\gososil_11\gososil_11.cu(214): note: 'Error' 선언을 참조하십시오.
+     C:\Users\SOGANG\Desktop\윤태박\gososil_11__\x64\Debug\gososil_11.lib 라이브러리 및 C:\Users\SOGANG\Desktop\윤태박\gososil_11__\x64\Debug\gososil_11.exp 개체를 생성하고 있습니다.
+  gososil_11.vcxproj -> C:\Users\SOGANG\Desktop\윤태박\gososil_11__\x64\Debug\gososil_11.exe

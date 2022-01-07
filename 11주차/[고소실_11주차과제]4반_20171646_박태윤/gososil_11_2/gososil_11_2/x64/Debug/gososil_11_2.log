@@ -1,0 +1,9 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  C:\Users\SOGANG\Desktop\윤태박\gososil_11_2\gososil_11_2>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\include"  -G   --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc142.pdb /FS /Zi /RTC1 /MDd " -o x64\Debug\kernel.cu.obj "C:\Users\SOGANG\Desktop\윤태박\gososil_11_2\gososil_11_2\kernel.cu" 
+C:\Users\SOGANG\Desktop\윤태박\gososil_11_2\gososil_11_2\kernel.cu(85): warning #177-D: variable "row" was declared but never referenced
+  
+C:\Users\SOGANG\Desktop\윤태박\gososil_11_2\gososil_11_2\kernel.cu(86): warning #177-D: variable "col" was declared but never referenced
+  
+  kernel.cu
+  gososil_11_2.vcxproj -> C:\Users\SOGANG\Desktop\윤태박\gososil_11_2\x64\Debug\gososil_11_2.exe

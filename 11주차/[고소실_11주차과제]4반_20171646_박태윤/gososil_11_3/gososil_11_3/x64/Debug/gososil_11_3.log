@@ -1,0 +1,5 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\11주차\gososil_11_3\gososil_11_3>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\bin\HostX86\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.5\include"  -G   --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc142.pdb /FS /Zi /RTC1 /MDd " -o x64\Debug\kernel.cu.obj "C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\11주차\gososil_11_3\gososil_11_3\kernel.cu" 
+  kernel.cu
+  gososil_11_3.vcxproj -> C:\Users\qkrxo\OneDrive\바탕 화면\공대생 박태윤\2021-2학기\고오급소프트웨어실습\11주차\gososil_11_3\x64\Debug\gososil_11_3.exe
